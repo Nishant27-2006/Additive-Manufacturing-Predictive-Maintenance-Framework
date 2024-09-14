@@ -40,7 +40,7 @@ pip install -r requirements.txt
 Installation
 Clone the repository:
 
-git clone https://github.com/your-username/am-predictive-maintenance.git
+git clone https://github.com/Nishant27-2006/BreadcrumbsAdditive-Manufacturing-Predictive-Maintenance-Framework.git
 cd am-predictive-maintenance
 Install the required dependencies:
 
